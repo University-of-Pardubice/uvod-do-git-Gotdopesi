@@ -1,6 +1,5 @@
 # Softwareengineering
 
-
 ## Tabulka
 | Left columns  | Right columns |
 | ------------- |:-------------:|
