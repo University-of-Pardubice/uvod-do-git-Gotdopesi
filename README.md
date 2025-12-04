@@ -1,9 +1,2 @@
 # Softwareengineering
-
-
-## Tabulka
-| Left columns  | Right columns |
-| ------------- |:-------------:|
-| left foo      | right foo     |
-| left bar      | right bar     |
-| left baz      | right baz     |
+Empty project for trainining git
